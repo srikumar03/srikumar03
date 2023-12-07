@@ -1,53 +1,4 @@
 <h1 align="center">Hello 👋, I'm Sri</h1>
-<h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="srikumar03" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://sridharkumar.netlify.app/)
-
-- 💬 Ask me about **react, express, mongodb, css**
-
-- 📫 How to reach me **sridharkumar5303@gmail.com**
-
-- 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1i-DIrupB40H1c5OSUin9soU20CKU4ZT5/view?usp=sharing)
-
-- ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids**
-
-<h2 style="font-size:32px;
-  font-weight: bold;">
-🌐 Connect with me:
-</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/sridharofficial/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/sridharkumar5303/" target="blank">
-
-</a>
-</p>
-
-<br>
-<h2 style="font-size:32px;
-  font-weight: bold;">
-💻 Tech Stack:
-</h2>
-
-<h3 align="left">Programming Languages :</h3>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="40"/> </a>
-
-<h3 align="left">Web Development Stack :</h3>
-
-![HTML5](<h1 align="center">Hello 👋, I'm Sri</h1>
 
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
 
@@ -91,6 +42,9 @@
 <h3 align="left">Programming Languages :</h3>
 
 ![C](https://img.shields.io/badge/logo-c-blue?logo=c)
+![C](https://img.shields.io/badge/logo-c-blue?logo=c)
+![Java](https://img.shields.io/badge/logo-c-blue?logo=c)
+![Python]
 
 <h3 align="left">Web Development Stack :</h3>
 
