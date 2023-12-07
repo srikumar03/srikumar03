@@ -203,5 +203,3 @@
 
 <br>
 
-![Sri's Graph]
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=srikumar03&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
