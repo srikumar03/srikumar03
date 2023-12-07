@@ -42,9 +42,10 @@
 <h3 align="left">Programming Languages :</h3>
 
 ![C](https://img.shields.io/badge/c-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23593d88.svg?style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/python-%CA4245.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h3 align="left">Web Development Stack :</h3>
 
