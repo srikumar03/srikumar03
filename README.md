@@ -41,10 +41,10 @@
 
 <h3 align="left">Programming Languages :</h3>
 
-![C](https://img.shields.io/badge/-blue?logo=c)
-![C++](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-blue?logo=java)
-![python](https://img.shields.io/badge/-blue?logo=python)
+![C](https://img.shields.io/badge/c-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23E34F26.svg?style=for-the-badge&logo=c++&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <h3 align="left">Web Development Stack :</h3>
 
