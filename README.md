@@ -26,10 +26,10 @@
 </h2>
 <p align="left">  
 <a href="https://www.linkedin.com/in/sridharofficial/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/sridharkumar5303/" target="blank">
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
 </p>
 
