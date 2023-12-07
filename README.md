@@ -42,9 +42,9 @@
 <h3 align="left">Programming Languages :</h3>
 
 ![C](https://img.shields.io/badge/-blue?logo=c)
-![C](https://img.shields.io/badge/logo-c-blue?logo=c)
-![Java](https://img.shields.io/badge/logo=java)
-![Python]
+![C++](https://img.shields.io/badge/-blue?logo=c++)
+![Jaca](https://img.shields.io/badge/-blue?logo=java)
+![python](https://img.shields.io/badge/-blue?logo=py)
 
 <h3 align="left">Web Development Stack :</h3>
 
