@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm RK</h1>
+<h1 align="center">Hello 👋, I'm Sri</h1>
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar-e&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithkumar-e" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://ranjithkumar-e.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://sridharkumar.netlify.app/)
 
 - 💬 Ask me about **react, express, mongodb, css**
 
-- 📫 How to reach me **ranjithkumarstudies@gmail.com**
+- 📫 How to reach me **sridharkumar5303@gmail.com**
 
-- 📄 Know about my experiences in [**my resume**](https://ranjithkumar-e.github.io/Portfolio/images/RanjithKumar_CV.png)
+- 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1i-DIrupB40H1c5OSUin9soU20CKU4ZT5/view?usp=sharing)
 
 - ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids**
 
@@ -25,11 +25,11 @@
 🌐 Connect with me:
 </h2>
 <p align="left">
-<a href="https://linkedin.com/in/ranjith-kumar-e" target="_blank">
+<a href="https://www.linkedin.com/in/sridharofficial/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> & 
 <a href="https://www.hackerrank.com/ranjith_kumar_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjith_kumar_e" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjith_kumar_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjith_kumar_e" height="30" width="40" /></a>
+<a href="https://leetcode.com/sridharkumar5303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjith_kumar_e" height="30" width="40" /></a>
 </p>
 
 <br>
