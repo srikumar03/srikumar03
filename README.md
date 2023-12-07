@@ -42,9 +42,9 @@
 <h3 align="left">Programming Languages :</h3>
 
 ![C](https://img.shields.io/badge/c-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23E34F26.svg?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23593d88.svg?style=for-the-badge&logo=Java&logoColor=white)
-![python](https://img.shields.io/badge/python-%23563D7C.svg?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-%CA4245.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <h3 align="left">Web Development Stack :</h3>
 
