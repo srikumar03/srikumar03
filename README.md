@@ -24,7 +24,7 @@
   font-weight: bold;">
 🌐 Connect with me:
 </h2>
-<p align="left">
+<p align="left">  
 <a href="https://www.linkedin.com/in/sridharofficial/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -42,7 +42,7 @@
 <h3 align="left">Programming Languages :</h3>
 
 ![C](https://img.shields.io/badge/-blue?logo=c)
-![C++](https://img.shields.io/badge/-blue?logo=c++)
+![C++](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-blue?logo=java)
 ![python](https://img.shields.io/badge/-blue?logo=python)
 
