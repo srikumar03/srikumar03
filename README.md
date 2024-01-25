@@ -1,5 +1,8 @@
-<h1 align="center">Hello 👋, I'm Sri</h1>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="srikumar03" /> </p>
