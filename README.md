@@ -75,19 +75,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
+
 
 <h3 align="left">Tools :</h3>
 
@@ -102,7 +90,21 @@
 ![Arduino](https://img.shields.io/badge/arduino-4fccf3?style=for-the-badge&logo=arduino&logoColor=white)
 
 <hr/>
-<br/>
+
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍 <br/></h2>
+   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/srikumar03/srikumar03/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
 <p align="center">
   <a href="https://github.com/srikumar03">
@@ -119,5 +121,6 @@
 </a>
 
 <br>
+
 
 
