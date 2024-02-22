@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids**
 
-<h2 style="font-size:32px;
+<h2 style="font-size:31px;
   font-weight: bold;">
 🌐 Connect with me:
 </h2>
