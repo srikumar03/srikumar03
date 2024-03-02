@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="srikumar03" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=srikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="srikumar03" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
