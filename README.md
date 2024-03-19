@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sridharkumar5303@gmail.com**
 
-- 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1i-DIrupB40H1c5OSUin9soU20CKU4ZT5/view?usp=sharing)
+<!-- - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1i-DIrupB40H1c5OSUin9soU20CKU4ZT5/view?usp=sharing) -->
 
 - ⚡ Fun fact **Many Owners Of Large Tech Companies Loved Video Games As Kids**
 
