@@ -1,7 +1,7 @@
 <h1 align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Myself+Sridhar!;+Thank+You+for+Visiting+&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Myself+Sridhar!;+Thank+You+for+Visiting+❤️+&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
