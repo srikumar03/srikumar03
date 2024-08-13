@@ -73,6 +73,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-darkblue.svg?style=for-the-badge&logo=wordpress&logoColor=skyblue)
+![Wordpress](https://img.shields.io/badge/WooCommerce-rgb(127,84,179).svg?style=for-the-badge&logo=woo&logoColor=white)
 
 <!-- <h3 align="left">Cloud and deployment :</h3>
 
