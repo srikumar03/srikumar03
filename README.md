@@ -10,13 +10,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **WP - Woo**
 
 - 👨‍💻 All of my projects are available at [**my portfolio**](https://sridharkumar.netlify.app/)
 
-- 💬 Ask me about **react, express, mongodb, css**
+- 💬 Ask me about **react, express, mongodb, css, Php**
 
 - 📫 How to reach me **sridharkumar5303@gmail.com**
 
