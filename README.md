@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **WP - Woo**
-
 - 👨‍💻 All of my projects are available at [**my portfolio**](https://sridharkumar.netlify.app/)
 
 - 💬 Ask me about **react, express, mongodb, css, Php**
